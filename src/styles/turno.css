@@ -1,0 +1,33 @@
+button{
+    margin: 10px
+}
+
+.admTurnos{
+    background: #4D4D4D;
+	text-transform: uppercase;
+	font-family: 'Open Sans Condensed', sans-serif;
+    color: rgb(168, 169, 240);
+    text-align: center;
+	font-size: 18px;
+	font-weight: 100;
+	padding: 20px;
+	margin: 30px 0px 0px 0px;
+}
+
+.turno{
+    width: 300px;
+    padding: 20px;
+	background: #FFFFFF;
+	margin: 30px 0px 0px 0px;
+	box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.22);
+	-moz-box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.22);
+	-webkit-box-shadow:  0px 0px 15px rgba(0, 0, 0, 0.22);
+}
+
+.turno p{
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    margin: 1px
+}
+
